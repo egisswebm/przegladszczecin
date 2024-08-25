@@ -1,5 +1,5 @@
 # Świadectwa Energetyczne Szczecin
-Repozytorium na materiały na stronę [Swiadectwa energetyczne Szczecin]([https://www.google.com](https://swiadectwa-energetyczne-szczecin.pl/))
+Repozytorium na materiały na stronę [Swiadectwa energetyczne Szczecin](https://www.google.com](https://swiadectwa-energetyczne-szczecin.pl/)
 
 ![świadetwa energetyczne Szczecin][logo]
 
